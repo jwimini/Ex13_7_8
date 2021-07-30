@@ -1,4 +1,4 @@
-plugins {
+zzplugins {
     id 'com.android.application'
 }
 
